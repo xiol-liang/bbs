@@ -1,0 +1,69 @@
+#box{
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 100px ;
+	background: #FFFFFF;
+	overflow: hidden;
+	text-align: center;
+	
+}
+.box1{
+	width: 80%;
+	margin: 0 auto;
+}
+.select1{
+	margin: 0 auto;
+	width: 75%;
+	height: 40px;
+}
+.select1 div{
+	float: left;
+}
+.select2{
+	margin: 0 auto;
+	width: 75%;
+	height: 40px;
+}
+.select3{
+	margin: 0 auto;
+	width: 75%;
+	height: 150px;
+}
+#box select{
+	width: 47%;
+	height: 100%;
+	
+}
+.htxt{
+	width: 100%;
+	height: 80px;
+}
+.hpost{
+	font-size: 24px;
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.txtpost{
+	float: right;
+	height: 100%;
+	width: 75%;
+}
+.txtpost1{
+	width: 100%;
+	height: 40px;
+}
+.select3 .txtpost1{
+	width: 100%;
+	height: 150px;
+}
+#box textarea{
+	resize: none;
+	margin-bottom: 30px;
+	height: 100%;
+}
+
+.layui-form-label {
+	text-overflow: ellipsis;
+	white-space: nowrap
+}

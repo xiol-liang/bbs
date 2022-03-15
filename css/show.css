@@ -1,0 +1,16 @@
+.showmain{
+	margin-top: 10px;
+	background: #FFFFFF;
+}
+td a{
+	color: #41A1F2;
+	text-decoration: none;
+}
+td a:hover{
+	color: #83C2CF;
+	text-decoration: underline;
+}
+.biao:hover{
+	color: #87A9DF;
+	text-decoration: underline;
+}

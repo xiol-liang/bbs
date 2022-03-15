@@ -1,0 +1,52 @@
+.sortmain {
+	width: 1200px;
+	height: 710px;
+	border: 0px red solid; 
+}
+
+.sortmain div {
+	float: left;
+}
+
+
+.sortmain li {
+	width: 595px;
+	height: 350px;
+	background: #fff;
+	border-radius: 5px;
+	overflow: hidden;
+	float: left;
+	cursor: pointer;
+}
+
+.sortmain li img {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+
+.sortmain li:hover img {
+	-webkit-transform: scale(1.15);
+	-moz-transform: scale(1.15);
+	-o-transform: scale(1.15);
+	transform: scale(1.15);
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+.kuai{
+	position: absolute;
+	width: 595px;
+	color: #fff;
+	font-family: 微软雅黑;
+	font-size: 36px;
+	text-align: center;
+	z-index: 1;
+	margin-top: 140px;
+}

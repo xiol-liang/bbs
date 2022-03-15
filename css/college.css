@@ -1,0 +1,51 @@
+.collegemain{
+	margin-top: 10px;
+	border: 0px solid red;
+	width: 1200px;
+	height: 1020px;
+}
+.kuai{
+	width: 1200px;
+	height: 230px;
+	border-radius: 5px;
+	background: #fff;
+}
+.kuai div{
+	float: left;
+}
+.zhan{
+	width: 28%;
+	height: 230px;
+	border: 0px solid red;
+}
+.lie{
+	width: 70%;
+	height: 230px;
+	border: 0px solid red;
+}
+.kuai ul{
+	list-style: none;
+	float: left;
+	margin: 40px 25px;
+	width: 790px;
+}
+.kuai li{
+	width: 45%;
+	list-style: none;
+	float: left;
+	margin-bottom: 30px;
+}
+.kuai a{
+	color: #000000;
+	text-decoration: none;
+}
+.collegemain li span{
+	display: inline-block;
+	position: relative;
+	bottom: 3px;
+	margin-right: 8px;
+	background: rgb(211,211,211);
+	border: 1px solid rgb(211,211,211);
+	width: 10px;
+	height: 1px;
+}
